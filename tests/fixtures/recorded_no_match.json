@@ -1,0 +1,33 @@
+{
+  "data": {
+    "matching": {
+      "version": "review-1.3.0",
+      "profile": "standard",
+      "nameThreshold": 78,
+      "corroboratedNameThreshold": 75,
+      "retrievalVersion": "indexed-1.2.0",
+      "partialNames": "exclude"
+    },
+    "warnings": [],
+    "id": "00000000-0000-4000-8000-000000000001",
+    "environment": "sandbox",
+    "status": "no_match",
+    "createdAt": "2026-09-17T12:00:00.000Z",
+    "matches": [],
+    "coverage": [
+      {
+        "sourceId": "sandbox-synthetic",
+        "version": "1",
+        "retrievedAt": "2026-09-17T12:00:00.000Z",
+        "fresh": true
+      }
+    ],
+    "versions": {
+      "dataset": "sandbox-synthetic-v1",
+      "matchingEngine": "deterministic-1.3.0",
+      "policy": "review-1.3.0",
+      "package": "sandbox@1"
+    },
+    "disclaimer": "Potential matches support analyst review. No match means no match in the selected sources and dataset, not legal clearance. Scores and evidence categories support review; they are not probabilities of identity or wrongdoing."
+  }
+}

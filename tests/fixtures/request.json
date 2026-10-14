@@ -1,0 +1,8 @@
+{
+  "subject": {
+    "name": "Alex Morgan",
+    "entityType": "person"
+  },
+  "package": "sandbox@1",
+  "retention": "standard"
+}
